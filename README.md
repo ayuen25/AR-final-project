@@ -1,0 +1,1 @@
+To run the final Exam Scheduler: run python final_exam.py in the command line. Currently all of the files are set to read in smaller subset files. Benchmarks generates random subsets of different sizes and those subsets can be used in place. Course_Reg.csv is the full Amherst College anonymized enrollment for Fall 24 and Exam-Rooms the full room list of possible exam rooms.
